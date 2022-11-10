@@ -1,0 +1,39 @@
+html {
+ scroll-behavior: smooth;
+}
+header h1 {
+ margin-bottom: 0;
+}
+header p {
+ margin-top: 0;
+}
+nav {
+ background-color: black;
+ color: white;
+ padding: 0.5rem;
+ margin: 1rem 0;
+}
+nav ul {
+ margin: 0;
+ padding: 0;
+}
+nav li {
+ display: inline;
+ margin-right: 0.5rem;
+}
+nav a {
+ color: white;
+ text-decoration: none;
+}
+
+footer {
+ background-color: black;
+ color: white;
+ text-align: right;
+ padding: 0.5rem;
+}
+
+footer a {
+ color: white;
+ text-decoration: none;
+}
